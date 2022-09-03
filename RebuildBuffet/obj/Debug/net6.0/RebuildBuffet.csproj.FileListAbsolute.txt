@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\RebuildBuffet\RebuildBuffet\bin\Debug\net6.0\RebuildBuffet.exe
+C:\Users\User\source\repos\RebuildBuffet\RebuildBuffet\bin\Debug\net6.0\RebuildBuffet.deps.json
+C:\Users\User\source\repos\RebuildBuffet\RebuildBuffet\bin\Debug\net6.0\RebuildBuffet.runtimeconfig.json
+C:\Users\User\source\repos\RebuildBuffet\RebuildBuffet\bin\Debug\net6.0\RebuildBuffet.dll
+C:\Users\User\source\repos\RebuildBuffet\RebuildBuffet\bin\Debug\net6.0\RebuildBuffet.pdb
+C:\Users\User\source\repos\RebuildBuffet\RebuildBuffet\obj\Debug\net6.0\RebuildBuffet.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\RebuildBuffet\RebuildBuffet\obj\Debug\net6.0\RebuildBuffet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\RebuildBuffet\RebuildBuffet\obj\Debug\net6.0\RebuildBuffet.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\RebuildBuffet\RebuildBuffet\obj\Debug\net6.0\RebuildBuffet.AssemblyInfo.cs
+C:\Users\User\source\repos\RebuildBuffet\RebuildBuffet\obj\Debug\net6.0\RebuildBuffet.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RebuildBuffet\RebuildBuffet\obj\Debug\net6.0\RebuildBuffet.dll
+C:\Users\User\source\repos\RebuildBuffet\RebuildBuffet\obj\Debug\net6.0\refint\RebuildBuffet.dll
+C:\Users\User\source\repos\RebuildBuffet\RebuildBuffet\obj\Debug\net6.0\RebuildBuffet.pdb
+C:\Users\User\source\repos\RebuildBuffet\RebuildBuffet\obj\Debug\net6.0\RebuildBuffet.genruntimeconfig.cache
+C:\Users\User\source\repos\RebuildBuffet\RebuildBuffet\obj\Debug\net6.0\ref\RebuildBuffet.dll
